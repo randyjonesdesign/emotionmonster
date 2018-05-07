@@ -7,4 +7,5 @@ tags:
 - sm
 ---
 
+### Dudes. This is so out of the box.
 Why not get out side and stroll around for a bit? Ask your teacher for help.
